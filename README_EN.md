@@ -1,3 +1,7 @@
+# !!!Note: This project is a work in progress, and developers are actively working on it. If you encounter any issues or errors, please attempt to resolve them yourself first. Only submit an issue if you are unable to fix it!!!
+
+
+
 # The Exam Score Process System
 [简体中文](README.md) | English
 ## Function
