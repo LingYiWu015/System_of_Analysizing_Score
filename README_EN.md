@@ -1,5 +1,5 @@
 # The Exam Score Process System
-
+[简体中文](README.md) | English
 ## Function
 
 ### Using For
