@@ -1,3 +1,4 @@
+
 # Developer Documentation
 
 ## Project Overview
@@ -6,13 +7,15 @@ This project is a web application for analyzing Chinese high school students' ex
 
 ## Project Structure
 
+```
 your-project-directory/
-. ├── main.py
-. ├── Show_Web_GUI.py
-. ├── Ulties.py
-. ├── README.md
-. ├── requirements.txt
-. └── [other files and directories]
+├── main.py
+├── Show_Web_GUI.py
+├── Ulties.py
+├── README.md
+├── requirements.txt
+└── [other files and directories]
+```
 
 - `main.py`: The main script that initializes the project and starts the web interface.
 - `Show_Web_GUI.py`: Defines the web interface using Gradio, allowing users to upload files and select processing methods.
@@ -29,7 +32,7 @@ This script is the entry point of the project. It initializes the necessary dire
 **Example Code:**
 
 ```python
-Waiting for you to Write it
+waiting for you to upload
 ```
 
 ### `Show_Web_GUI.py`
@@ -38,8 +41,8 @@ This file defines the Gradio web interface, allowing users to upload files and s
 
 **Example Code:**
 
-```Python
-Waiting for you to write it
+```python
+waiting for you to upload
 ```
 
 ### `Ulties.py`
@@ -48,17 +51,17 @@ This file contains various utility functions for file operations and data proces
 
 **Example Code:**
 
-```Python
-Waiting for you to write it
+```python
+waiting for you to enter
 ```
 
 ## Development Notes
 
-1. Code Style: Please follow the PEP 8 code style guide to maintain consistency and readability.
-2. Dependency Management: Ensure all dependencies are listed in the requirements.txt file and use virtual environments to manage dependencies.
-3. Version Control: Make frequent commits with clear commit messages in Git.
-4. Documentation: Ensure all major functions and modules are properly commented and documented.
-5. Testing: Thoroughly test all features before committing code to avoid introducing errors.
+1. **Code Style**: Please follow the PEP 8 code style guide to maintain consistency and readability.
+2. **Dependency Management**: Ensure all dependencies are listed in the `requirements.txt` file and use virtual environments to manage dependencies.
+3. **Version Control**: Make frequent commits with clear commit messages in Git.
+4. **Documentation**: Ensure all major functions and modules are properly commented and documented.
+5. **Testing**: Thoroughly test all features before committing code to avoid introducing errors.
 
 ## Contribution Guidelines
 We welcome all forms of contributions! If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to get started.
