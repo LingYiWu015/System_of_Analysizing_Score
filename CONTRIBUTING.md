@@ -7,12 +7,12 @@ This project is a web application for analyzing Chinese high school students' ex
 ## Project Structure
 
 your-project-directory/
-├── main.py
-├── Show_Web_GUI.py
-├── Ulties.py
-├── README.md
-├── requirements.txt
-└── [other files and directories]
+. ├── main.py
+. ├── Show_Web_GUI.py
+. ├── Ulties.py
+. ├── README.md
+. ├── requirements.txt
+. └── [other files and directories]
 
 - `main.py`: The main script that initializes the project and starts the web interface.
 - `Show_Web_GUI.py`: Defines the web interface using Gradio, allowing users to upload files and select processing methods.
